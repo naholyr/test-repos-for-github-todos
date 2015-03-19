@@ -1,4 +1,3 @@
-[object Object] @TODO
-[object Object] @TODO
-[object Object] @TODO
-yet another task to be created @TODO
+(B) 2015-03-19 some task! @TODO +Sample
+(B) 2015-03-19 another task? @TODO +Sample
+(B) 2015-03-19 why don't you take my tasks? @TODO +Sample

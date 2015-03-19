@@ -1,0 +1,5 @@
+_version=1.0.3
+service=todotxt
+repo=/home/nchambrier/Projects/Perso/github-todos/sample-repo/todo.txt
+todotxt.priority=B
+todotxt.project=Sample
